@@ -1,7 +1,7 @@
-# Exercises taken from 'A Collection of Data Science Take Home Challenge'
+## Exercises taken from 'A Collection of Data Science Take Home Challenge'
 
 
-Ex1: Conversion rate EDA and AB-testing
+# Ex1: Conversion rate EDA and AB-testing
 
 The exercise is consist of 2 parts:
 
@@ -16,7 +16,7 @@ The exercise is consist of 2 parts:
    Understand whether the localized translation website (B test) is worse
    
    
-Ex2: Employee retention analysis
+# Ex2: Employee retention analysis
 
 This exercise has 3 challenges:
 
