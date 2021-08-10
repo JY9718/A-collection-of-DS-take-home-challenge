@@ -1,4 +1,4 @@
-# Exercises taken from the book 'A Collection of Data Science Take Home Challenge'
+# Exercises taken from 'A Collection of Data Science Take Home Challenge'
 
 
 Ex1: Conversion rate EDA and AB-testing
